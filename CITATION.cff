@@ -1,10 +1,10 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "Please cite this software."
 title: "fastq-summary"
 authors:
   - family-names: Surname
     given-names: Given
-version: v1.0.0
+version: 1.0.0
 date-released: 2026-10-16
 license: MIT
 repository-code: "https://github.com/Omicslogic-git/fastq-summary_v2"
